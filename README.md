@@ -10,10 +10,10 @@ Esta guía está escrita para un usuario sin permisos *root*. Los comandos que r
 
 1. Asegúrese de que ha configurado y asegurado su Servidor correctamente. El nombre del host o *hostname* también debe estar configurado.  
 Para verificar su *hostname* puede ejecutar:
-~~~
-hostname  
+```
+hostname
 hostname -f
-~~~  
+```
 	El primer comando debería mostrar el *hostname* corto, y el segundo debería mostrar el nombre de dominio completamente calificado (o FQDN, por sus siglas en inglés).
 2. Actualice su sistema:  
 	```
